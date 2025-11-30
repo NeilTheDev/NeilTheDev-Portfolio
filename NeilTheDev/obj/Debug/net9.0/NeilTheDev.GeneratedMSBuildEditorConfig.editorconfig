@@ -26,24 +26,48 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/My Projects/Personal Projects/NeilTheDev/NeilTheDev/Components/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/My Projects/Personal Projects/NeilTheDev/NeilTheDev/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/My Projects/Personal Projects/NeilTheDev/NeilTheDev/Components/Pages/Footer.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xGb290ZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/My Projects/Personal Projects/NeilTheDev/NeilTheDev/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/My Projects/Personal Projects/NeilTheDev/NeilTheDev/Components/Pages/Weather.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWF0aGVyLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/My Projects/Personal Projects/NeilTheDev/NeilTheDev/Components/Routes.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/My Projects/Personal Projects/NeilTheDev/NeilTheDev/Components/Sections/About.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTZWN0aW9uc1xBYm91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/My Projects/Personal Projects/NeilTheDev/NeilTheDev/Components/Sections/Contact.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTZWN0aW9uc1xDb250YWN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/My Projects/Personal Projects/NeilTheDev/NeilTheDev/Components/Sections/Education.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTZWN0aW9uc1xFZHVjYXRpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/My Projects/Personal Projects/NeilTheDev/NeilTheDev/Components/Sections/Experience.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTZWN0aW9uc1xFeHBlcmllbmNlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/My Projects/Personal Projects/NeilTheDev/NeilTheDev/Components/Sections/Interests.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTZWN0aW9uc1xJbnRlcmVzdHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/My Projects/Personal Projects/NeilTheDev/NeilTheDev/Components/Sections/Projects.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTZWN0aW9uc1xQcm9qZWN0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/My Projects/Personal Projects/NeilTheDev/NeilTheDev/Components/Sections/Skills.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTZWN0aW9uc1xTa2lsbHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/My Projects/Personal Projects/NeilTheDev/NeilTheDev/Components/_Imports.razor]

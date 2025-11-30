@@ -100,7 +100,6 @@ C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\scopedcs
 C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
 C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\scopedcss\bundle\NeilTheDev.styles.css
 C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\scopedcss\projectbundle\NeilTheDev.bundle.scp.css
-C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\1r7tda2oj4-{0}-khy4lop6wu-khy4lop6wu.gz
 C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\b5zin1jd5t-{0}-bqjiyaj88i-bqjiyaj88i.gz
 C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\s0jqrnov2z-{0}-c2jlpeoesf-c2jlpeoesf.gz
 C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\uflpuxbmk3-{0}-erw9l3u2r3-erw9l3u2r3.gz
@@ -145,8 +144,6 @@ C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compress
 C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\bxtizixkb2-{0}-h1s4sie4z3-h1s4sie4z3.gz
 C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\20hc0hcvb9-{0}-63fj8s7r0e-63fj8s7r0e.gz
 C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\b09ua5pbp4-{0}-0j3bgjxly4-0j3bgjxly4.gz
-C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\h5klutp8qx-{0}-37bk5zdfrp-37bk5zdfrp.gz
-C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\omas9h76lj-{0}-37bk5zdfrp-37bk5zdfrp.gz
 C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\staticwebassets.build.json
 C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\staticwebassets.build.json.cache
 C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\staticwebassets.development.json
@@ -158,3 +155,8 @@ C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\refint\N
 C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\NeilTheDev.pdb
 C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\NeilTheDev.genruntimeconfig.cache
 C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\ref\NeilTheDev.dll
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\NeilTheDev.sourcelink.json
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\1r7tda2oj4-{0}-mpgdf99ula-mpgdf99ula.gz
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\p1dklcska1-{0}-k3r2ietrzw-k3r2ietrzw.gz
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\h5klutp8qx-{0}-quv1235hjw-quv1235hjw.gz
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\omas9h76lj-{0}-quv1235hjw-quv1235hjw.gz
