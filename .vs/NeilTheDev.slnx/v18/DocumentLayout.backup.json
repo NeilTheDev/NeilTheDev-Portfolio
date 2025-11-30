@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\My Projects\\Personal Projects\\NeilTheDev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FCDA158-3269-D13B-564F-91C7C2F1F98A}|NeilTheDev\\NeilTheDev.csproj|c:\\my projects\\personal projects\\neilthedev\\neilthedev\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FCDA158-3269-D13B-564F-91C7C2F1F98A}|NeilTheDev\\NeilTheDev.csproj|solutionrelative:neilthedev\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FCDA158-3269-D13B-564F-91C7C2F1F98A}|NeilTheDev\\NeilTheDev.csproj|c:\\my projects\\personal projects\\neilthedev\\neilthedev\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FCDA158-3269-D13B-564F-91C7C2F1F98A}|NeilTheDev\\NeilTheDev.csproj|solutionrelative:neilthedev\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 235,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\My Projects\\Personal Projects\\NeilTheDev\\NeilTheDev\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "NeilTheDev\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\My Projects\\Personal Projects\\NeilTheDev\\NeilTheDev\\Components\\Layout\\MainLayout.razor*",
+              "RelativeToolTip": "NeilTheDev\\Components\\Layout\\MainLayout.razor*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T07:59:04.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\My Projects\\Personal Projects\\NeilTheDev\\NeilTheDev\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "NeilTheDev\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\My Projects\\Personal Projects\\NeilTheDev\\NeilTheDev\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "NeilTheDev\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T07:58:02.345Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\bin\Debug\net9.0\appsettings.json
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\bin\Debug\net9.0\NeilTheDev.staticwebassets.runtime.json
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\bin\Debug\net9.0\NeilTheDev.staticwebassets.endpoints.json
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\bin\Debug\net9.0\NeilTheDev.exe
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\bin\Debug\net9.0\NeilTheDev.deps.json
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\bin\Debug\net9.0\NeilTheDev.runtimeconfig.json
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\bin\Debug\net9.0\NeilTheDev.dll
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\bin\Debug\net9.0\NeilTheDev.pdb
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\NeilTheDev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\NeilTheDev.AssemblyInfoInputs.cache
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\NeilTheDev.AssemblyInfo.cs
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\NeilTheDev.csproj.CoreCompileInputs.cache
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\NeilTheDev.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\scopedcss\bundle\NeilTheDev.styles.css
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\scopedcss\projectbundle\NeilTheDev.bundle.scp.css
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\1r7tda2oj4-{0}-khy4lop6wu-khy4lop6wu.gz
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\b5zin1jd5t-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\s0jqrnov2z-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\uflpuxbmk3-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\3alw7povwc-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\nxqgn2dcah-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\b1ljdw5kiw-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\37u6h2cq0x-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\u7enlhhofo-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\93b9vj7usy-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\4g7x32nab5-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\cf6pgizax4-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\uk5rbi2k7g-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\a16ho1e7k1-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\dif7rap3xr-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\9legolldfy-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\ndihaqwzzk-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\lobcna5yj6-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\3ca7t37qjb-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\gv1q69kmha-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\1yy057vd7g-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\i9cpuitob5-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\3h9k67bwgn-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\3wz7rqadi1-{0}-06098lyss8-06098lyss8.gz
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\8sfgnxj8z2-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\eibdx8ovxq-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\qscci7m6z4-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\0jniqlioig-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\yg8aqt12yt-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\tvy7m1ts2u-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\nj1c5tx5d4-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\ecxc86axkz-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\v4qost69ln-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\gurs0ymsqg-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\285hvislnn-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\j0slkuxnl6-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\ejt5nypm3l-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\tqyhvuakef-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\fpuu4jbq0r-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\s64cblmvsr-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\ow1c3oft88-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\kswj87z08m-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\bxtizixkb2-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\20hc0hcvb9-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\b09ua5pbp4-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\h5klutp8qx-{0}-37bk5zdfrp-37bk5zdfrp.gz
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\omas9h76lj-{0}-37bk5zdfrp-37bk5zdfrp.gz
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\swae.build.ex.cache
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\NeilTheDev.dll
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\refint\NeilTheDev.dll
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\NeilTheDev.pdb
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\NeilTheDev.genruntimeconfig.cache
+C:\Users\neilr\source\repos\NeilTheDev\NeilTheDev\obj\Debug\net9.0\ref\NeilTheDev.dll
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\bin\Debug\net9.0\appsettings.Development.json
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\bin\Debug\net9.0\appsettings.json
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\bin\Debug\net9.0\NeilTheDev.staticwebassets.endpoints.json
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\bin\Debug\net9.0\NeilTheDev.staticwebassets.runtime.json
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\bin\Debug\net9.0\NeilTheDev.exe
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\bin\Debug\net9.0\NeilTheDev.deps.json
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\bin\Debug\net9.0\NeilTheDev.runtimeconfig.json
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\bin\Debug\net9.0\NeilTheDev.dll
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\bin\Debug\net9.0\NeilTheDev.pdb
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\NeilTheDev.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\NeilTheDev.AssemblyInfoInputs.cache
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\NeilTheDev.AssemblyInfo.cs
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\NeilTheDev.csproj.CoreCompileInputs.cache
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\NeilTheDev.MvcApplicationPartsAssemblyInfo.cache
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\scopedcss\bundle\NeilTheDev.styles.css
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\scopedcss\projectbundle\NeilTheDev.bundle.scp.css
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\1r7tda2oj4-{0}-khy4lop6wu-khy4lop6wu.gz
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\b5zin1jd5t-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\s0jqrnov2z-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\uflpuxbmk3-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\3alw7povwc-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\nxqgn2dcah-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\b1ljdw5kiw-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\37u6h2cq0x-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\u7enlhhofo-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\93b9vj7usy-{0}-ub07r2b239-ub07r2b239.gz
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\4g7x32nab5-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\cf6pgizax4-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\uk5rbi2k7g-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\a16ho1e7k1-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\dif7rap3xr-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\9legolldfy-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\ndihaqwzzk-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\lobcna5yj6-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\3ca7t37qjb-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\gv1q69kmha-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\1yy057vd7g-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\i9cpuitob5-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\3h9k67bwgn-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\3wz7rqadi1-{0}-06098lyss8-06098lyss8.gz
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\8sfgnxj8z2-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\eibdx8ovxq-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\qscci7m6z4-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\0jniqlioig-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\yg8aqt12yt-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\tvy7m1ts2u-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\nj1c5tx5d4-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\ecxc86axkz-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\v4qost69ln-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\gurs0ymsqg-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\285hvislnn-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\j0slkuxnl6-{0}-493y06b0oq-493y06b0oq.gz
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\ejt5nypm3l-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\tqyhvuakef-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\fpuu4jbq0r-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\s64cblmvsr-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\ow1c3oft88-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\kswj87z08m-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\bxtizixkb2-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\20hc0hcvb9-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\b09ua5pbp4-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\h5klutp8qx-{0}-37bk5zdfrp-37bk5zdfrp.gz
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\compressed\omas9h76lj-{0}-37bk5zdfrp-37bk5zdfrp.gz
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\staticwebassets.build.json
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\staticwebassets.development.json
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\swae.build.ex.cache
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\NeilTheDev.dll
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\refint\NeilTheDev.dll
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\NeilTheDev.pdb
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\NeilTheDev.genruntimeconfig.cache
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\obj\Debug\net9.0\ref\NeilTheDev.dll
