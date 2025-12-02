@@ -1,5 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300;400;500;700&display=swap');
+
 html, body {
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    /*font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
+    font-family: 'Roboto Mono', monospace;
 }
 
 a, .btn-link {
@@ -59,14 +62,68 @@ h1:focus {
     text-align: start;
 }
 
-
-
 /* NAV BAR */
 
 .sidebar {
     position: fixed;
     top: 0;
     width: 100%;
+    background-image: linear-gradient(180deg, #e65100 0%, #bf360c 70%) !important;
+}
+
+@media (min-width: 991px) { /* was 641 */
+
+    .top-row {
+        display: none !important;
+    }
+
+    .profile-container {
+        margin-top: 10vh;
+    }
+
+    .profile-image {
+        width: 160px;
+        height: 160px;
+        object-fit: cover;
+        border: 2px solid white;
+    }
+
+}
+
+@media (max-width: 990px) { /* was 640 */
+
+    .top-row {
+        background: none !important;
+    }
+
+    .container-fluid {
+        display: flex !important;
+        justify-content: flex-start !important;
+    }
+
+    .navbar-brand {
+        padding-left: 25px !important;
+    }
+
+    .profile-container {
+        display: none;
+    }
+
+    .profile-container2 {
+        padding-top: 0px !important;
+        padding-bottom: 0px !important;
+    }
+
+    .profile-image {
+        width: 40px;
+        height: 40px;
+        object-fit: cover;
+        border: 1px solid white;
+    }
+
+    .profile-name {
+        display: none;
+    }
 }
 
 /* FOOTER */

@@ -1,4 +1,4 @@
-wwwroot\app.css
+wwwroot\Assets\Images\favicon.ico
 wwwroot\favicon.png
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
@@ -44,8 +44,8 @@ wwwroot\lib\bootstrap\dist\js\bootstrap.js
 wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
 wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
 wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
-wwwroot\Assets\Images\favicon.ico
-C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\wwwroot\app.css
+wwwroot\app.css
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\wwwroot\Assets\Images\favicon.ico
 C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
 C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
@@ -90,4 +90,4 @@ C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\wwwroot\lib\bootstrap\dis
 C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
 C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
 C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
-C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\wwwroot\Assets\Images\favicon.ico
+C:\My Projects\Personal Projects\NeilTheDev\NeilTheDev\wwwroot\app.css
