@@ -139,6 +139,7 @@ h1:focus {
 
 .section {
     min-height: 100vh;
+/*    height: auto;*/
     background-color: #ffffff;
     scroll-margin-top: 50px;
     border-bottom: 1px solid #d3d3d3;

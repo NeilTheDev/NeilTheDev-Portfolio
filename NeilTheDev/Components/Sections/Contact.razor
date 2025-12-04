@@ -1,4 +1,4 @@
-﻿<div id="contact" class="section p-4">
+﻿@* <div id="contact" class="section p-4">
     <h2>Contact</h2>
 
     This is the contact component
@@ -7,4 +7,78 @@
 
 @code {
 
+}
+
+
+@page "/contact" *@
+
+@using System.ComponentModel.DataAnnotations;
+
+<div id="contact" class="section container py-5">
+    <h2 class="mb-4 border-bottom pb-2">Contact Me</h2>
+
+        <div class="row justify-content-start">
+        <div class="col-12 col-sm-10 col-md-8 col-lg-6 col-xl-5 col-xxl-4">
+
+            <EditForm Model="@contactModel" OnValidSubmit="@HandleValidSubmit">
+                <DataAnnotationsValidator />
+                <ValidationSummary class="alert alert-danger" />
+
+                <div class="mb-3">
+                    <label class="form-label">Name</label>
+                    <InputText class="form-control" @bind-Value="contactModel.Name" />
+                    <ValidationMessage For="@(() => contactModel.Name)" class="text-danger" />
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label">Email</label>
+                    <InputText class="form-control" @bind-Value="contactModel.Email" />
+                    <ValidationMessage For="@(() => contactModel.Email)" class="text-danger" />
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label">Message</label>
+                    <InputTextArea class="form-control" rows="5" @bind-Value="contactModel.Message" />
+                    <ValidationMessage For="@(() => contactModel.Message)" class="text-danger" />
+                </div>
+
+                <button class="btn btn-primary px-4" type="submit">Send</button>
+
+                @if (formSubmitted)
+                {
+                    <div class="alert alert-success mt-3">
+                        Your message has been sent!
+                    </div>
+                }
+            </EditForm>
+
+        </div>
+        </div>
+
+</div>
+
+@code {
+    private ContactModel contactModel = new();
+    private bool formSubmitted = false;
+
+    private async Task HandleValidSubmit()
+    {
+        // TODO: Send Email or store message.
+        // Example: await EmailService.SendAsync(contactModel);
+
+        formSubmitted = true;
+    }
+
+    public class ContactModel
+    {
+        [Required(ErrorMessage = "Your name is required.")]
+        public string Name { get; set; } = string.Empty;
+
+        [Required(ErrorMessage = "Email is required.")]
+        [EmailAddress(ErrorMessage = "Invalid email format.")]
+        public string Email { get; set; } = string.Empty;
+
+        [Required(ErrorMessage = "Please enter a message.")]
+        public string Message { get; set; } = string.Empty;
+    }
 }
